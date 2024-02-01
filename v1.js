@@ -124,6 +124,6 @@ function updateProgressBar() {
 
 function logout() {
     // Redirect to the first page
-    window.location.href = "vote.html";
+    window.location.href = "index.html";
 }
 
